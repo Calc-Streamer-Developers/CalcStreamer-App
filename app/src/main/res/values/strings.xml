@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TI-Viewer</string>
+
+    <string name="welcome_text">Willkommen bei der Streaming APP für den TI-NSpire</string>
+    <string name="welcome_wlan">Bitte ein WLAN-Netzwerk auswählen</string>
+    <string name="welcome_progress">Bitte warten</string>
+
+    <string name="action_settings">Einstellungen</string>
+</resources>

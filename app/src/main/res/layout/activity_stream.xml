@@ -1,0 +1,21 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_stream_coordinatorlayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0099cc"
+    android:keepScreenOn="true"
+    tools:context="de.waishon.thomas.FullscreenActivity">
+
+    <LinearLayout
+        android:id="@+id/activity_stream_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/activity_stream_imageview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/black" />
+    </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>
